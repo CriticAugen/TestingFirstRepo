@@ -1,4 +1,1 @@
-# TestingFirstRepo
-# updating first time
-# updating second time
-# updating 3rd time
+Just a folder that I use as URLs for importing my Assets.
